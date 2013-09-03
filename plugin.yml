@@ -1,0 +1,7 @@
+name: Social
+version: 1.0
+main: me.yuzko.social.Social
+author: Yuzko
+commands:
+  social:
+    aliases: [s]
